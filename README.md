@@ -10,16 +10,6 @@ Self-Driving Car Engineer Nanodegree Program
 3. Compile: `cmake .. && make`
 4. Run it: `./mpc`.
 
-## Tips
-
-1. It's recommended to test the MPC on basic examples to see if your implementation behaves as desired. One possible example
-is the vehicle starting offset of a straight line (reference). If the MPC implementation is correct, after some number of timesteps
-(not too many) it should find and track the reference line.
-2. The `lake_track_waypoints.csv` file has the waypoints of the lake track. You could use this to fit polynomials and points and see of how well your model tracks curve. NOTE: This file might be not completely in sync with the simulator so your solution should NOT depend on it.
-3. For visualization this C++ [matplotlib wrapper](https://github.com/lava/matplotlib-cpp) could be helpful.)
-4.  Tips for setting up your environment are available [here](https://classroom.udacity.com/nanodegrees/nd013/parts/40f38239-66b6-46ec-ae68-03afd8a601c8/modules/0949fca6-b379-42af-a919-ee50aa304e6a/lessons/f758c44c-5e40-4e01-93b5-1a82aa4e044f/concepts/23d376c7-0195-4276-bdf0-e02f1f3c665d)
-5. **VM Latency:** Some students have reported differences in behavior using VM's ostensibly a result of latency.  Please let us know if issues arise as a result of a VM environment.
-
 
 ## Project Instructions and Rubric
 
@@ -36,3 +26,10 @@ for instructions and the project rubric.
   will span all of the .cpp files here. Keep an eye out for TODOs.
 
 
+## Result
+
+
+## Implementation
+
+
+## Conclusion
