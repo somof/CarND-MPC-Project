@@ -6,6 +6,16 @@
 - there's a 100 millisecond latency between actuations commands on top of the connection latency.
 
 
+- Choose your state, input(s), dynamics, constraints and implement MPC.
+- Test your solution on basic examples.
+- Test your solution on the simulator!
+- When the vehicle is able to drive successfully around the track, submit!
+  Remember to include a separate file in .txt, .md, .html, or .pdf format 
+  addressing the questions in the rubric.
+- Try to see how fast you get the vehicle to SAFELY go!
+
+
+
 
 # Rubric: Implementation
 

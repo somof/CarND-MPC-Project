@@ -98,6 +98,16 @@ int main() {
           * Both are in between [-1, 1].
           *
           */
+//          auto coeffs = polyfit(ptsx, ptsy, 1);
+//          double cte = polyeval(coeffs, x) - y;
+
+
+
+          Eigen::VectorXd state(6);
+          state << px, py, psi, v, cte, epsi;
+
+          auto vars = mpc.Solve(state, coeffs);
+
           double steer_value;
           double throttle_value;
 
