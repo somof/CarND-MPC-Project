@@ -117,7 +117,7 @@ state vector are replaced with new values based on 100msec delay via folowing co
 
 ### Answer to Rubric:Simulation
 
-Here's a [link to my video result](./MPC-demo-video-2017-12-07_17.51.03.mp4)
+Here's a [link to my video result](./MPC-demo.mp4)
 
 
 
